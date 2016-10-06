@@ -4,18 +4,25 @@
 
 
     <link rel="stylesheet" href="{{ "/css/main.css" | prepend: site.baseurl }}" type="text/css"/>
+    <link rel="stylesheet" href="{{ "/css/home.css" | prepend: site.baseurl }}" type="text/css"/>
 
     </head>
 
     <body>
 
+       <div class='banner'>
+         <div></div>
+         <img src="/assets/images/tsrs.png" alt="Cartoon Picture of Tom Sears" class="circle"/>
+       </div>
 
+       <h1 class='centered'>Tom Sears</h1>
+       <p class="centered">Developer</p>
 
-    <div class="container">
-      {{ content }}
-    </div>
+      <div id="content">
+        {{ content }}
+      </div>
 
-
+      {% include footer.html %}
 
     </body>
 </html>
