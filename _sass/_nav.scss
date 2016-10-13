@@ -1,12 +1,21 @@
 nav {
   background-color: rgba(0,0,0,0.9);
   color: white;
+  position: relative;
+  z-index: 200;
 
   ul {
     list-style-type: none;
+
     li {
       margin-bottom: auto;
       cursor: pointer;
+      position: relative;
+      z-index: 200;
+
+      i.fa {
+        font-size: 1.2em;
+      }
     }
   }
 
@@ -32,25 +41,46 @@ nav {
 
     li.collapsed {
       cursor: pointer;
+      >span:after {
+        content: "  \25BC";
+      }
+    }
+
+    li {
+      > ul {
+        transition: top 0.5s cubic-bezier(0, 1, 0.5, 1);
+        position: absolute;
+        width: auto;
+      }
     }
 
     li.collapsed {
       > ul {
-        display: none;
+        top: 0;
+        visibility: hidden;
+        z-index: 0;
       }
     }
 
     li.expanded {
       position: relative;
+      z-index: 200;
       background-color: rgba(255,255,255,0.8);
       color: rgba(0,0,0,0.8);
+
+      >span::after {
+        content: "  \25BC";
+      }
+
       > ul {
-        position:absolute;
         background-color: rgba(0,0,0,0.9);
         color: rgba(255,255,255,0.8);
         white-space: nowrap;
-        top: 3em;
+        top: 3.4em;
         z-index: 100;
+        max-height: 10em;
+
+        @include drop-shadow(1em, 0.5);
 
         li:hover {
           background-color: #333;
