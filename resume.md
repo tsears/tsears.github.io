@@ -42,6 +42,7 @@ started producing web applications.
 
 
 ## Neudesic ##
+{: .pb }
 
 **May 2015 – May 2016**\\
 *Senior Consultant II*\\
@@ -87,6 +88,7 @@ Software Development and Consulting
   unit within a large enterprise (JavaScript/jQuery, HTML, CSS).
 
 ### Public Websites ###
+{: .pb }
 
 **Kansas Department for Children and Families**\\
 [http://www.dcf.ks.gov](http://www.dcf.ks.gov)
@@ -133,6 +135,7 @@ a winforms application for managing test cases to replace existing excel-on-a-fi
 approach.
 
 # Skills #
+{: .pb }
 
 Between a long history of interest in Software Development and Computing, as well
 as developing and supporting the above listed projects, I am qualified in the
