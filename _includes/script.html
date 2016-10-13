@@ -1,0 +1,36 @@
+<script src="https://cdnjs.cloudflare.com/ajax/libs/webfont/1.6.26/webfontloader.js"></script>
+
+<script type="text/javascript">
+	WebFont.load({
+		google: {
+			families: ['Raleway', 'Open Sans']
+		},
+		custom: {
+			families: ['FontAwesome'],
+			urls: ['/styles/lib/font-awesome/css/font-awesome.min.css']
+		}
+	});
+</script>
+
+<script>
+
+function setNavFlyouts() {
+
+  var navExpandFn = function() {
+    this.classList.toggle('collapsed');
+    this.classList.toggle('expanded');
+  }
+
+  var navDropdowns = document.querySelectorAll("nav li.collapsed");
+  for(var i = 0; i < navDropdowns.length; i++) {
+    var n = navDropdowns[i];
+    n.addEventListener("click", navExpandFn);
+  }
+}
+
+document.addEventListener("DOMContentLoaded", function() {
+  setNavFlyouts();
+});
+
+
+</script>

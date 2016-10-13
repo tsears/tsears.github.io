@@ -3,6 +3,7 @@
 
 @import 'reset';
 @import 'headings';
+@import 'nav';
 
 html {
   font: 18px/1.5 'Open Sans', sans-serif;
@@ -41,6 +42,14 @@ img {
   float: left;
 }
 
+strong {
+  font-weight: bold;
+}
+
+em {
+  font-style: italic;
+}
+
 #content {
   width: 80%;
   border: 1px solid #cecece;
@@ -55,12 +64,24 @@ img {
 
 ul {
   list-style-type: disc;
-  list-style-position: inside;
+  //list-style-position: inside;
+  list-style-position: outside;
+  line-height: 1.4em;
 
-  &.two-column {
-    columns: 3;
-    -webkit-columns:3;
-    -moz-columns:3;
+  &.col {
+    list-style-position: inside;
+
+    &.three {
+      columns: 3;
+      -webkit-columns:3;
+      -moz-columns:3;
+    }
+
+    &.two {
+      columns: 2;
+      -webkit-columns: 2;
+      -moz-columns: 2;
+    }
   }
 
   li {
