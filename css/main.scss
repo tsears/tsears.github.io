@@ -44,6 +44,10 @@ img {
   float: left;
 }
 
+.clear {
+  clear: both;
+}
+
 strong {
   font-weight: bold;
 }
@@ -89,4 +93,26 @@ ul {
   li {
     margin-bottom: 0.5em;
   }
+}
+
+ol {
+
+	li {
+		counter-increment: step-counter;
+		margin-bottom: 1em;
+    line-height: 1.4em;
+
+		&::before {
+			content: counter(step-counter);
+	    margin-right: 1em;
+	    font-size: 80%;
+	    background-color: #374146;
+	    color: white;
+	    font-weight: bold;
+	    padding: 3px 8px;
+	    border-radius: 3px;
+      display: block;
+      float: left;
+		}
+	}
 }

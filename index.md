@@ -26,12 +26,12 @@ pure development on a product.
 
 ![Operation Breakdown on Laptop and Phone](/assets/images/opbd.png){:class="f-left" }
 
-Operation Breakdown
-is a web-based repository for storing data gathered by parsing demo files provided
-by Valve from the game Counter Strike: Global Offensive. The basic idea is that a
-parsing tool goes over the demo file compiling statistics based on in-game events.
-The results of that parsing are submitted to this site, where users will be able
-to review a detailed breakdown of their performance during a match.
+Operation Breakdown is a web-based repository for storing data gathered by parsing
+replay files (called demos) provided by Valve from the game Counter Strike: Global
+Offensive. The basic idea is that a parsing tool goes over the demo file compiling
+statistics based on in-game events. The results of that parsing are submitted to
+this site, where users will be able to review a detailed breakdown of their performance
+during a match.
 
 Operation Breakdown is the results of 8 months of part-time solo development, and
 development continues to this day.  At the moment it is in a closed beta mode, though
@@ -53,6 +53,7 @@ the data is available for anyone to browse.
 * C#
 * Visual Studio
 * MSUnit
+* Vagrant
 {: .three .col}
 
 ## tsears.net ##
