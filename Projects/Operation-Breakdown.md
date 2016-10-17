@@ -18,7 +18,7 @@ development continues to this day. At the moment it is in a closed beta mode, th
 the data is available for anyone to browse.  To take a quick look,
 [click here](https://www.operation-breakdown.com/User/76561197973092984#/OverallData).
 
-# How it's used #
+# How it&apos;s used #
 
 1. Play a game of competitive matchmaking
 2. Download the replay (demo) using the CS:GO game client

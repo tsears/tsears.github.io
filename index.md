@@ -10,15 +10,15 @@ to Q-Basic in the 12 years old and have been banging out code in one form or ano
 ever since.  These days I do most of my work with web technologies, but still duck
 over to the desktop or console when I need to.
 
-I've spent most of my post-collegiate career working with Microsoft SharePoint as
-a consultant -- and not strictly in development activities.  As such, most of my
+I&apos;ve spent most of my post-collegiate career working with Microsoft SharePoint as
+a consultant - and not strictly in development activities.  As such, most of my
 professional experience centers around parts of the Microsoft stack. SharePoint
 uses ASP.NET (not MVC), html, css, and javascript, but largely takes the place of
 the middle and back-end of the web development stack in favor of its own rich object
 model and APIs.
 
-At this point I'm looking to move away from the consulting/CAD space and focus on
-pure development on a product.
+At this point I&apos;m looking to move away from the consulting/CAD space and focus
+on pure development on a product or service.
 
 # Recent Projects #
 
@@ -46,7 +46,7 @@ the data is available for anyone to browse.
 * mongodb
 * REST
 * gulp
-* Jasmine/Karma/PhantomJS
+* Jasmine / Karma / PhantomJS
 * linux (ubuntu)
 * nginx
 * git (gitlab, sourcetree)
@@ -58,7 +58,7 @@ the data is available for anyone to browse.
 
 ## tsears.net ##
 
-That's right, the site you're looking at!.  Short and sweet so far, built using
+That&apos;s right, the site you&apos;re looking at!.  Short and sweet so far, built using
 [jekyll](https://jekyllrb.com/).
 
 * html

@@ -44,7 +44,7 @@ started producing web applications.
 ## Neudesic ##
 {: .pb }
 
-**May 2015 – May 2016**\\
+**May 2015 - May 2016**\\
 *Senior Consultant II*\\
 *[http://www.neudesic.com](http://www.neudesic.com)*
 
@@ -65,7 +65,7 @@ Software Development and Consulting
 
 ## Channelmatter ##
 
-**June 2009 – February 2014**\\
+**June 2009 - February 2014**\\
 *Software Developer*\\
 *[http://www.channelmatter.com](http://www.channelmatter.com)*
 
@@ -126,7 +126,7 @@ background and had no web experience whatsoever. With my help, she was able to t
 over and successfully curate the content of the site for the last several years.
 
 ## Xerox ##
-*October 2008 – June 2009*\\
+*October 2008 - June 2009*\\
 *Software Tester*
 
 Performed manual testing surrounding a function of Xerox copy machines that allows
@@ -179,7 +179,7 @@ following areas
 
 # Education & Qualifications #
 
-Microsoft Specialist – Programming in HTML5 with JavaScript and CSS3 (Apr 2016)
+Microsoft Specialist - Programming in HTML5 with JavaScript and CSS3 (Apr 2016)
 
 Microsoft Certified Professional Developer - Designing and Developing Microsoft
 SharePoint 2010 Applications (Mar 2012)
