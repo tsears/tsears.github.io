@@ -22,6 +22,28 @@ on pure development on a product or service.
 
 # Recent Projects #
 
+## Budding Babies ##
+
+*Alpha launching soon!*
+
+Budding Babies is a site where parents can go to track the growth of their Babies
+over time.  In addition to saving the raw values, it charts the various growth metrics
+against the World Health Organization growth curves.
+
+* html
+* css (sass/scss)
+* javascript (es6)
+* angular
+* node
+* express
+* PostgreSQL
+* REST
+* gulp
+* linux (ubuntu)
+* nginx
+* Vagrant
+{: .three .col}
+
 ## Operation Breakdown ##
 
 ![Operation Breakdown on Laptop and Phone](/assets/images/opbd.png){:class="f-left" }

@@ -34,6 +34,15 @@ nav {
       }
     }
 
+    >li {
+      &:last-child {
+        a {
+          display: inline-block;
+          padding: 1em;
+        }
+      }      
+    }
+
     li.no-link span {
       display: block;
       padding: 1em 2em;
@@ -90,10 +99,6 @@ nav {
 
     li.spacer {
       flex-grow: 1;
-    }
-
-    li.collapsed {
-
     }
   }
 }
