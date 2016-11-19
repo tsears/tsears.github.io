@@ -13,8 +13,8 @@ this site, where users will be able to review a detailed breakdown of their perf
 during a match. Also rich dashboards showing aggregate statistics allow a player
 to track his performance over time.
 
-Operation Breakdown is the results of 8 months of part-time solo development, and
-development continues to this day. At the moment it is in a closed beta mode, though
+Operation Breakdown is the result of 9 months of part-time solo development, and
+development continues to this day. At the moment it is in open beta mode, and
 the data is available for anyone to browse.  To take a quick look,
 [click here](https://www.operation-breakdown.com/User/76561197973092984#/OverallData).
 
@@ -63,6 +63,7 @@ design was done by me.
 * Visual Studio
 * MSUnit
 * Vagrant
+* git
 {: .three .col}
 
 ![Operation Breakdown on Laptop and Phone](/assets/images/opbd.png)

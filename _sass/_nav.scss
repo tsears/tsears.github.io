@@ -40,7 +40,7 @@ nav {
           display: inline-block;
           padding: 1em;
         }
-      }      
+      }
     }
 
     li.no-link span {
@@ -52,6 +52,8 @@ nav {
       cursor: pointer;
       >span:after {
         content: "  \25BC";
+        padding-left: 1em;
+        font-size: 0.8em;
       }
     }
 
@@ -79,6 +81,8 @@ nav {
 
       >span::after {
         content: "  \25BC";
+        padding-left: 1em;
+        font-size: 0.8em;
       }
 
       > ul {
