@@ -5,10 +5,10 @@ layout: home
 # About Me #
 
 My name is Tom Sears and I consider myself a full-stack web developer, where the
-stack starts at a pile of PC components and networking equipment. I was introduced
-to Q-Basic in the 12 years old and have been banging out code in one form or another
-ever since.  These days I do most of my work with web technologies, but still duck
-over to the desktop or console when I need to.
+stack starts at bare metal. I was introduced to Q-Basic in the 12 years old and
+have been banging out code in one form or another ever since.  These days I do most
+of my work with web technologies, but still duck over to the desktop or console when
+I need to.
 
 I&apos;ve spent most of my post-collegiate career working with Microsoft SharePoint as
 a consultant - and not strictly in development activities.  As such, most of my
