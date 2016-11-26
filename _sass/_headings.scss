@@ -6,11 +6,16 @@ $step-size-heading: 0.33333;
 
 h1, h2, h3, h4, h5, h6 {
 	margin: 1.5rem 0;
-	font-family: 'Raleway', sans-serif;
+	font-family: 'Fjalla One', sans-serif;
 	font-weight: 600;
+  color: #8B95A7;
 }
 
-$start: 6;
+h1 {
+  color: #66758e;
+}
+
+$start: 7;
 @each $h in h1, h2, h3, h4, h5, h6 {
 
 	#{$h} {
