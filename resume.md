@@ -93,7 +93,7 @@ Software Development and Consulting
 ### Public Websites ###
 {: .pb }
 
-**Kansas Department for Children and Families**\\
+#### Kansas Department for Children and Families ####
 [http://www.dcf.ks.gov](http://www.dcf.ks.gov)
 
 I was responsible for installation of the underlying CMS (Microsoft SharePoint),
@@ -103,7 +103,7 @@ I was brought back later to implement responsive elements to the design. Using M
 queries and a lot of jQuery, I was able to make the site reorganize itself to enhance
 usability on mobile.
 
-**Kansas Self Directed Services and Individualized Planning**\\
+#### Kansas Self Directed Services and Individualized Planning ####
 Site no longer available.
 
 This is another public website sharing the same infrastructure as the DCF site.  
@@ -120,7 +120,7 @@ tests.
   Kansas were able to submit videos telling of their successes.  A video player
   connected to a Windows Media Server to play the video.
 
-**East Mississippi Community College**
+#### East Mississippi Community College ####
 [http://www.eastms.edu](http://www.eastms.edu)
 
 There isn’t much to this site from a technical standpoint, the primary challenge
