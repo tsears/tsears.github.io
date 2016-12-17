@@ -13,6 +13,14 @@ implementation and refinement, to ongoing support.
 
 # Work History #
 
+## Intel Security (VanderHouwen) ##
+**December 2016 – Present**\\
+*Front End Web Developer*
+
+Building prototype widgets for a “living style guide” using Angular 1.x.  The general
+idea is to provide a standard set of UI components that other developers can incorporate
+in to their applications.
+
 ## Fusorsoft ##
 
 **May 2014 - Present**\\
@@ -146,7 +154,7 @@ following areas
 
 * HTML
 * CSS
-* JavaScript/jQuery/AngularJS (1)
+* JavaScript/jQuery/AngularJS (1.x)
 * MS-SQL 2005+
 * nodejs
 * mongodb
@@ -177,7 +185,8 @@ following areas
 * TFS
 * MSTest
 * Jasmine
-* Git
+* Git (GitLab, GitHub)
+* LDAP
 {: .two .col}
 
 # Education & Qualifications #
