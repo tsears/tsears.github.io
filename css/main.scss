@@ -5,6 +5,7 @@
 @import 'mixins';
 @import 'headings';
 @import 'nav';
+@import 'footer';
 
 
 html {
@@ -66,8 +67,8 @@ em {
   padding: 2em;
 
   h1,h2,p,ul {
-    transition: margin 1s;
-    margin-top: 15em;
+    transition: margin 1s ease-out;
+    margin-top: 100%;
   }
 }
 

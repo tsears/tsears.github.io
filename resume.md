@@ -30,6 +30,13 @@ other developers can incorporate in to their applications.
 * Calendar Widget
 * Number slider
 
+**Skills**
+
+* Angular 1.x
+* es6
+* gulp / webpack / babel
+* html/scss
+
 ## Fusorsoft ##
 
 **May 2014 - Present**\\

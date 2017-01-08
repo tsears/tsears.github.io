@@ -4,6 +4,13 @@ nav {
   position: relative;
   z-index: 200;
 
+  svg {
+
+    path {
+      fill: white;
+    }
+  }
+
   ul {
     list-style-type: none;
 

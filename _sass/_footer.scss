@@ -1,0 +1,21 @@
+footer {
+  display: flex;
+  background-color: #66758e;
+  padding: 3em 6em;
+  margin-top: 3em;
+  color: #BEC4CE;
+
+  a {
+    cursor: pointer;
+    text-decoration: none;
+    color: #8B95A7;
+  }
+
+  >div {
+    width: 50%;
+
+    &:last-child {
+      text-align: right;
+    }
+  }
+}
