@@ -64,13 +64,17 @@ em {
   margin-right: auto;
   margin-top: 2em;
   padding: 2em;
+
+  h1,h2,p,ul {
+    transition: margin 1s;
+    margin-top: 15em;
+  }
 }
 
 
 
 ul {
   list-style-type: disc;
-  //list-style-position: inside;
   list-style-position: outside;
   line-height: 1.4em;
   padding-left: 1em;

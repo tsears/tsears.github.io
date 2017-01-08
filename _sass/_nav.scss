@@ -12,6 +12,15 @@ nav {
       cursor: pointer;
       position: relative;
       z-index: 200;
+      transition: background .2s;
+
+      &:hover {
+        background-color: #333;
+      }
+
+      &:last-child:hover {
+        background-color: inherit;
+      }
 
       i.fa {
         font-size: 1.2em;
@@ -98,6 +107,10 @@ nav {
         max-height: 10em;
 
         @include drop-shadow(1em, 0.5);
+
+        li {
+          transition: background .2s;
+        }
 
         li:hover {
           background-color: #333;

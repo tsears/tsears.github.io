@@ -20,5 +20,36 @@
 
       {% include footer.html %}
 
+      <script>
+
+      function animateBanner() {
+        var profilePic = document.getElementById('BannerPic');
+        var headingContainer  = document.querySelector('.headingContainer');
+
+        profilePic.style.left = 0;
+        headingContainer.style.left = 0;
+      }
+
+      function animateContent() {
+        var contentNodes = document.getElementById('content').childNodes;
+        var nodes = ['p', 'h1', 'h2', 'ul'];
+
+        for (var i = 0; i < contentNodes.length; i++) {
+          console.log(nodes.indexOf(contentNodes[i].nodeName.toLowerCase()));
+          if (nodes.indexOf(contentNodes[i].nodeName.toLowerCase()) !== -1) {
+            contentNodes[i].style.marginTop = '1em';
+          }
+        }
+      }
+
+      document.addEventListener("DOMContentLoaded", function(event) {
+        setTimeout(function() {
+          animateBanner();
+          animateContent();
+        }, 100);
+      });
+
+      </script>
+
     </body>
 </html>

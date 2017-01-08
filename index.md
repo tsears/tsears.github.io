@@ -58,7 +58,7 @@ statistics based on in-game events. The results of that parsing are submitted to
 this site, where users will be able to review a detailed breakdown of their performance
 during a match.
 
-Operation Breakdown is the results of 8 months of part-time solo development, and
+Operation Breakdown is the result of 8 months of part-time solo development, and
 development continues to this day.  At the moment it is in a closed beta mode, though
 the data is available for anyone to browse.
 
@@ -88,6 +88,7 @@ That&apos;s right, the site you&apos;re looking at!.  Built using
 
 * html
 * css (sass/scss)
+* plain javascript
 * markdown
 * jekyll
 * linux (ubuntu)

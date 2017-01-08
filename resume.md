@@ -1,5 +1,5 @@
 ---
-layout: clean
+layout: resume
 ---
 
 # Summary #
@@ -14,12 +14,21 @@ implementation and refinement, to ongoing support.
 # Work History #
 
 ## Intel Security (VanderHouwen) ##
-**December 2016 – Present**\\
+
+**December 2016**\\
 *Front End Web Developer*
 
-Building prototype widgets for a “living style guide” using Angular 1.x.  The general
-idea is to provide a standard set of UI components that other developers can incorporate
-in to their applications.
+Short-term contract building prototype widgets for a &quot;living style guide&quot; using
+Angular 1.x.  The general idea is to provide a standard set of UI components that
+other developers can incorporate in to their applications.
+
+* Type-ahead search
+* Widget for constructing complicated boolean queries.
+* Progress bar
+* Loading spinner
+* Custom number spinner
+* Calendar Widget
+* Number slider
 
 ## Fusorsoft ##
 
