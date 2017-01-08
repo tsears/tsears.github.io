@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang='{{ site.language }}'>
+    <head>
+
+
+    <link rel="stylesheet" href="{{ "/css/main.css" | prepend: site.baseurl }}" type="text/css"/>
+    <link rel="stylesheet" href="{{ "/css/clean.css" | prepend: site.baseurl }}" type="text/css"/>
+    <link rel="stylesheet" href="{{ "/css/print.css" | prepend: site.baseurl }}" type="text/css" media="print"/>
+
+    </head>
+
+    <body>
+
+      {% include nav.html %}
+
+      <div id="content">
+        <div id="print-container">
+          <a href="javascript: window.print()"><i class="fa fa-print" aria-hidden="true"></i> Printer Friendly</a><br/>
+          <a href="javascript: saveAsWordDoc()"><i class="fa fa-file-word-o" aria-hidden="true"></i> Save As Word Doc</a>
+        </div>
+        {{ content }}
+      </div>
+
+      {% include footer.html %}
+
+      <script>
+
+      function saveAsWordDoc () {
+        var content = document.getElementById('content').innerHTML;
+        var styles = "<style>#print-container { display: none;}h1,h2,h3,h4,h5{font-family: lucida sans;}html{font-family: Helvetica, Tahoma, Sans-serif}</style>"
+        var outContent = "<!DOCTYPE html>\n<html><head>" + styles + "</head><body>" + content + "</body></html>";
+        console.log(outContent);
+        var converted = htmlDocx.asBlob(outContent);
+        saveAs(converted, "Tom Sears Resume.docx");
+      }
+
+      function animateContent() {
+        var contentNodes = document.getElementById('content').childNodes;
+        var nodes = ['p', 'h1', 'h2', 'ul'];
+
+        for (var i = 0; i < contentNodes.length; i++) {
+          if (nodes.indexOf(contentNodes[i].nodeName.toLowerCase()) !== -1) {
+            contentNodes[i].style.marginTop = '1em';
+          }
+        }
+      }
+
+      document.addEventListener("DOMContentLoaded", function(event) {
+        setTimeout(function() {
+          animateContent();
+        }, 100);
+      });
+
+      </script>
+
+      <script src="/assets/js/html-docx.js"></script>
+      <script src="/assets/js/FileSaver.min.js"></script>
+
+    </body>
+</html>
