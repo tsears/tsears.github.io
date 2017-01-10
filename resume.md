@@ -1,8 +1,11 @@
 ---
 layout: resume
 ---
+{::options parse_block_html="true" /}
+<div class="pure-g-r">
 
 # Summary #
+{: .pure-u-1 .pure-u-md-1-5}
 
 Web developer with over 8 years of professional experience.  Past projects include
 process automation, public websites, intranet portals, business intelligence, custom
@@ -10,9 +13,15 @@ development, and branding.  Experience working with government, education, enter
 and trade organizations in both a primary and subcontracting role. Complete end-to-end
 experience building software solutions - from initial consulting, requirements gathering,
 implementation and refinement, to ongoing support.
+{: .pure-u-1 .pure-u-md-3-5}
 
+</div>
+
+<div class="pure-g-r">
 # Work History #
+{: .pure-u-1 .pure-u-md-1-5}
 
+<div class="pure-u-1 pure-u-md-3-5">
 ## Intel Security (VanderHouwen) ##
 
 **December 2016**\\
@@ -160,10 +169,15 @@ Performed manual testing surrounding a function of Xerox copy machines that allo
 for external software to interact with the machine (EIP).  Between test runs I built
 a winforms application for managing test cases to replace existing excel-on-a-fileshare
 approach.
+</div>
+</div>
 
+<div class="pure-g-r">
 # Skills #
-{: .pb }
+{: .pb .pure-u-1 .pure-u-md-1-5}
 
+
+<div class="pure-u-1 pure-u-md-3-5">
 Between a long history of interest in Software Development and Computing, as well
 as developing and supporting the above listed projects, I am qualified in the
 following areas
@@ -204,12 +218,17 @@ following areas
 * Git (GitLab, GitHub)
 * LDAP
 {: .two .col}
+</div>
+</div>
 
 # Education & Qualifications #
+{: .pure-u-1 .pure-u-md-1-5}
 
+<div class="pure-u-1 pure-u-md-3-5">
 Microsoft Specialist - Programming in HTML5 with JavaScript and CSS3 (Apr 2016)
 
 Microsoft Certified Professional Developer - Designing and Developing Microsoft
 SharePoint 2010 Applications (Mar 2012)
 
 B.S. in Computer Science, Oregon State University, 2008
+</div>
