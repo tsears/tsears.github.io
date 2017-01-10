@@ -3,6 +3,7 @@ nav {
   color: white;
   position: relative;
   z-index: 200;
+  box-shadow: 0 0 10px #000;
 
   svg {
 
@@ -15,7 +16,7 @@ nav {
     list-style-type: none;
 
     li {
-      margin-bottom: auto;
+      margin-bottom: 0;
       cursor: pointer;
       position: relative;
       z-index: 200;

@@ -29,11 +29,6 @@ body {
     left: -150%;
     right: 0;
     top: 0;
-    animation: spin 1s linear;
-
-    &:hover {
-      animation: spin 2s linear infinite;
-    }
   }
 }
 
