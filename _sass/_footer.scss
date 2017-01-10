@@ -4,11 +4,16 @@ footer {
   padding: 3em 6em;
   margin-top: 3em;
   color: #BEC4CE;
+  box-shadow: 0 0 5px #000;
 
   a {
     cursor: pointer;
     text-decoration: none;
     color: #8B95A7;
+
+    &:hover {
+      text-decoration: underline;
+    }
   }
 
   >div {
