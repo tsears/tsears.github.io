@@ -24,6 +24,27 @@ as a pure software developer on a longer term project.
 
 # Recent Projects #
 
+## Weather ##
+[http://weather.tsears.net](http://weather.tsears.net).  Source available on
+[github](https://github.com/tsears/MVCWeather)
+
+A clean, modern site for current weather and forecasts.  I built this over the course
+of about a week to experiment with asp.net on linux through .net core.  I also wanted
+to focus on design elements to get a clean look and feel.
+
+* html
+* css (sass/scss)
+* javascript (es6)
+* angular
+* asp.net mvc / WebAPI
+* gulp
+* linux (ubuntu)
+* nginx
+* Vagrant
+* git (github)
+* Visual Studio Code
+{: .three .col}
+
 ## Budding Babies ##
 [https://www.budding-babies.com](https://www.budding-babies.com)
 
