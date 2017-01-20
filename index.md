@@ -45,6 +45,7 @@ to focus on design elements to get a clean look and feel.
 * Vagrant
 * git (github)
 * Visual Studio Code
+* Memcached
 {: .three .col}
 
 ## Budding Babies ##
