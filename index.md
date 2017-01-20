@@ -38,6 +38,8 @@ to focus on design elements to get a clean look and feel.
 * angular
 * asp.net mvc / WebAPI
 * gulp
+* Jasmine / Karma / PhantomJS (angular unit testing)
+* xunit (.net core unit testing)
 * linux (ubuntu)
 * nginx
 * Vagrant
