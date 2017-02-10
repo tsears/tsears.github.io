@@ -25,9 +25,10 @@ as a pure software developer on a longer term project.
 # Recent Projects #
 
 ## Game Of War ##
-[github](https://github.com/tsears/GameOfWar)
-[Demo Site](http://wargame.tsears.net)
-[github - Demo Site](https://github.com/tsears/GameOfWar-Site)
+
+* [github](https://github.com/tsears/GameOfWar)
+* [Demo Site](http://wargame.tsears.net)
+* [github - Demo Site](https://github.com/tsears/GameOfWar-Site)
 
 As part of a job interview I was tasked with developing an engine for playing the
 card game [War](https://en.wikipedia.org/wiki/War_%28card_game%29).  I decided if
