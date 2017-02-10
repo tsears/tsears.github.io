@@ -24,7 +24,7 @@ implementation and refinement, to ongoing support.
 <div class="pure-u-1 pure-u-md-3-5">
 ## Intel Security (VanderHouwen) ##
 
-**December 2016**\\
+**December 2016, February 2016 - Present**\\
 *Front End Web Developer*
 
 Short-term contract building prototype widgets for a &quot;living style guide&quot; using
@@ -38,6 +38,7 @@ other developers can incorporate in to their applications.
 * Custom number spinner
 * Calendar Widget
 * Number slider
+* Guided Tour
 
 **Skills**
 

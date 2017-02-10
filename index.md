@@ -24,6 +24,27 @@ as a pure software developer on a longer term project.
 
 # Recent Projects #
 
+## Game Of War ##
+[github](https://github.com/tsears/GameOfWar)
+[Demo Site](http://wargame.tsears.net)
+[github - Demo Site](https://github.com/tsears/GameOfWar-Site)
+
+As part of a job interview I was tasked with developing an engine for playing the
+card game [War](https://en.wikipedia.org/wiki/War_%28card_game%29).  I decided if
+I was going to do it, it may as well end up as a portfolio piece.  A companion site
+was created to showcase some of the functionality - the ability to actually watch
+a game being played is coming soon™!
+
+* javascript (es6)
+* Jasmine / Karma / PhantomJS
+* webpack
+* coverage / coveralls
+* Travis CI
+* Code Climate
+* gulp
+
+{: .three .col}
+
 ## Weather ##
 [http://weather.tsears.net](http://weather.tsears.net).  Source available on
 [github](https://github.com/tsears/MVCWeather)
