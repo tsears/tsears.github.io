@@ -22,9 +22,33 @@ implementation and refinement, to ongoing support.
 {: .pure-u-1 .pure-u-md-1-5}
 
 <div class="pure-u-1 pure-u-md-3-5">
+## NWEA (VanderHouwen) ##
+*[http://www.nwea.org](http://www.nwea.org)*
+
+**February 2017 - Present**\\
+*Senior Software Engineer**
+
+Contract position maintaining and enhancing an existing software platform for the
+creation, display, and scoring of student evaluation questions.
+
+* Creation/editing
+* Display
+* Scoring
+* Storage and Interoperability
+
+**Skills**
+
+* AngularJS
+* nodejs
+* es5/es6
+* XML
+* jasmine/karma
+* git
+
+
 ## Intel Security (VanderHouwen) ##
 
-**December 2016, February 2016 - Present**\\
+**December 2016, February 2017 - March 2017**\\
 *Front End Web Developer*
 
 Short-term contract building prototype widgets for a &quot;living style guide&quot; using
