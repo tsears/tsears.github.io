@@ -23,10 +23,10 @@ implementation and refinement, to ongoing support.
 
 <div class="pure-u-1 pure-u-md-3-5">
 ## NWEA (VanderHouwen) ##
-*[http://www.nwea.org](http://www.nwea.org)*
 
 **February 2017 - Present**\\
-*Senior Software Engineer**
+*Senior Software Engineer*\\
+*[http://www.nwea.org](http://www.nwea.org)*
 
 Contract position maintaining and enhancing an existing software platform for the
 creation, display, and scoring of student evaluation questions.
