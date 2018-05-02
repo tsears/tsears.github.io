@@ -8,8 +8,7 @@ layout: clean
 
 Budding Babies is a site where parents can go to track the growth of their Babies
 over time.  In addition to saving the raw values, it charts the various growth metrics
-against the World Health Organization growth curves.  It&apos;s currently available at
-[https://www.budding-babies.com](https://www.budding-babies.com).
+against the World Health Organization growth curves.
 
 # Technologies #
 

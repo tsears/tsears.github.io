@@ -19,10 +19,23 @@ css, and javascript, but largely takes the place of the middle and back-end of t
 web development stack in favor of its own rich object model and APIs.  For my more
 recent projects, I've been favoring nodejs and express for application building.
 
-At this point I&apos;m looking to move away from the consulting/CAD space and work
-as a pure software developer on a longer term project.
+As of late I have been transitioning away from SharePoint-related technologies in favor
+of a more traditional full-stack web development role.
 
 # Recent Projects #
+
+## Node Weather ##
+
+* [github](https://github.com/tsears/NodeWeather)
+
+I decided to take my existing weather app (described below) and rebuild it in node / aws / react
+as an exercise. This project is the backend portion comprised of the node application set up to
+run as a lambda behind api gateway.
+
+* javascript (es6)
+* webpack
+* AWS (cloudformation / lambda / api gateway)
+* nodejs
 
 ## Game Of War ##
 
@@ -43,6 +56,7 @@ a game being played is coming soon™!
 * Travis CI
 * Code Climate
 * gulp
+* Docker
 
 {: .three .col}
 
@@ -68,12 +82,12 @@ to focus on design elements to get a clean look and feel.
 * git (github)
 * Visual Studio Code
 * Memcached
+* Docker
 {: .three .col}
 
 ## Budding Babies ##
-[https://www.budding-babies.com](https://www.budding-babies.com)
 
-Budding Babies is a site where parents can go to track the growth of their Babies
+Budding Babies was a site where parents can go to track the growth of their Babies
 over time.  In addition to saving the raw values, it charts the various growth metrics
 against the World Health Organization growth curves.
 
@@ -116,7 +130,7 @@ the data is available for anyone to browse.
 * express
 * mongodb
 * REST
-* gulp
+* webpack
 * Jasmine / Karma / PhantomJS
 * linux (ubuntu)
 * nginx
@@ -125,6 +139,7 @@ the data is available for anyone to browse.
 * Visual Studio
 * MSUnit
 * Vagrant
+* Docker
 {: .three .col}
 
 ## tsears.net ##

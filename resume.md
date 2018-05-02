@@ -7,7 +7,7 @@ layout: resume
 # Summary #
 {: .pure-u-1 .pure-u-md-1-5}
 
-Web developer with over 8 years of professional experience.  Past projects include
+Web developer with 9 years of professional experience.  Past projects include
 process automation, public websites, intranet portals, business intelligence, custom
 development, and branding.  Experience working with government, education, enterprise,
 and trade organizations in both a primary and subcontracting role. Complete end-to-end
@@ -29,7 +29,10 @@ implementation and refinement, to ongoing support.
 *[http://www.nwea.org](http://www.nwea.org)*
 
 Contract position maintaining and enhancing an existing software platform for the
-creation, display, and scoring of student evaluation questions.
+creation, display, and scoring of student evaluation questions. Worked to replace a legacy
+solution for test question presentation and interactivity with a "pure" javascript solution
+based on a brand new internal framework. The new solution was successfully deployed and used by
+hundreds of thousands of students for state-mandated standardized testing.
 
 * Creation/editing
 * Display
@@ -42,8 +45,10 @@ creation, display, and scoring of student evaluation questions.
 * nodejs
 * es5/es6
 * XML
+* AWS Lambda
 * jasmine/karma
 * git
+* jenkins ci/cd
 
 
 ## Intel Security (VanderHouwen) ##
@@ -84,7 +89,7 @@ started producing web applications.
 
 * A site for tracking the growth of babies against the World Health Organization
   growth charts. While also built using Node/Express/Angular, for this project I
-  went with PostgreSQL for the storage tier.  It&apos;s available at [https://www.budding-babies.com](https://www.budding-babies.com).
+  went with PostgreSQL for the storage tier.
 * Built a web site for gathering, analyzing, and visualizing data collected from
   replay data of Counter Strike: Global Offensive. The site is built on a MEAN (mongo,
   express, angular, node) stack, while the parser is built using C#. [https://www.operation-breakdown.com](https://www.operation-breakdown.com) The
@@ -179,8 +184,6 @@ tests.
   connected to a Windows Media Server to play the video.
 
 #### East Mississippi Community College ####
-[http://www.eastms.edu](http://www.eastms.edu)
-
 There isn’t much to this site from a technical standpoint, the primary challenge
 was working with the college’s Director of Public Information, who came from a print
 background and had no web experience whatsoever. With my help, she was able to take
@@ -224,24 +227,24 @@ following areas
 * Windows Server 2003+
 * REST
 * TCP/IP Networking
-* Linux
+* Linux (ubuntu)
 * ASP.NET
 * grunt/gulp
 * mysql
 * SQL Server Reporting Services
 * postgresql
-* jekyll static blog generator
+* jekyll static site generator
 * nginx
 * apache
 * perl
 * vagrant
-* Jenkins
-* CruiseControl.NET
 * TFS
 * MSTest
 * Jasmine
-* Git (GitLab, GitHub)
+* Git (GitLab, GitHub, Bitbucket)
+* CI/CD (Jenkins, Gitlab, Travis, CruiseControl.NET)
 * LDAP
+* Docker
 {: .two .col}
 </div>
 </div>
