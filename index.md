@@ -85,27 +85,6 @@ to focus on design elements to get a clean look and feel.
 * Docker
 {: .three .col}
 
-## Budding Babies ##
-
-Budding Babies was a site where parents can go to track the growth of their Babies
-over time.  In addition to saving the raw values, it charts the various growth metrics
-against the World Health Organization growth curves.
-
-* html
-* css (sass/scss)
-* javascript (es6)
-* angular
-* node
-* express
-* PostgreSQL
-* REST
-* gulp
-* linux (ubuntu)
-* nginx
-* Vagrant
-* git (gitlab, sourcetree)
-{: .three .col}
-
 ## Operation Breakdown ##
 [https://www.operation-breakdown.com](https://www.operation-breakdown.com)
 
